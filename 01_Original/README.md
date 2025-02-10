@@ -1,8 +1,13 @@
 # Solución 1
+> [Ver código completo](./main.c)
 
-Esta es la solución original al ejercicio sin el uso de encapsulación con estructuras. Esto obliga al programador a utilizar dos variables independientes, una con el contenido del arreglo, y otra para el tamaño lógico, o sea, la cantidad de valores válidos de ese arreglo. También esta solución hace que los arreglos resultantes se pasen como parámetros, y la función posteriormente los modificará.
+Esta es la solución original al ejercicio sin el uso de encapsulación con estructuras. Esto obliga al programador a utilizar dos variables independientes:
+- una con el contenido del arreglo
+- y otra para el tamaño lógico, o sea, la cantidad de valores válidos de ese arreglo (len).
 
-Ejemplo de arreglo con este método
+> Este método de gestión de arreglos hace que se tengan que manipular dos variables diferentes durante todo el transcurso del código.
+
+Ejemplo de arreglo con este método:
 ```c
 // valores del arreglo
 int numbers[100];
@@ -12,4 +17,3 @@ int numbersLen = 0;
 ```
 
 
-> [Ver código completo](./main.c)
