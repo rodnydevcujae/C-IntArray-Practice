@@ -1,6 +1,6 @@
 # C IntArray Practice
 [![Solución-1 CI](https://github.com/rodnydevcujae/C-IntArray-Practice/actions/workflows/compile_01.yml/badge.svg)](https://github.com/rodnydevcujae/C-IntArray-Practice/actions/workflows/compile_01.yml)
-[![Solución-2 CI](https://github.com/rodnydevcujae/C-IntArray-Practice/actions/workflows/compile_01.yml/badge.svg)](https://github.com/rodnydevcujae/C-IntArray-Practice/actions/workflows/compile_02.yml)
+[![Solución-2 CI](https://github.com/rodnydevcujae/C-IntArray-Practice/actions/workflows/compile_02.yml/badge.svg)](https://github.com/rodnydevcujae/C-IntArray-Practice/actions/workflows/compile_02.yml)
 
 Solución al [ejercicio](#ejercicio) en lenguaje C. 
 
